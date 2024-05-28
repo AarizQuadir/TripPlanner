@@ -6,7 +6,7 @@ Tour Listing: View a list of tours with details about different destinations.
 Mark as Not Interested: Users can mark tours they are not interested in, which will then be removed from the list.
 Refresh Tours: Refresh the list to view all tours again after marking some as not interested.
 ### Demo
-You can view the live demo of the application here 
+You can view the live demo of the application here https://aarizquadir.github.io/TripPlanner/
 
 ### Screenshots
 Home Page
